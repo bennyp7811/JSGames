@@ -1,5 +1,5 @@
 body{
-    
+   background-color: antiquewhite; 
 }
 .banner{
     background-color: #4299d7;
@@ -8,6 +8,7 @@ body{
     
 }
 .menu{
+    background-color: #f2f2f2;
     border: 1px solid #ccc;
     border-width: 1px 0;
     list-style: none;
@@ -23,6 +24,16 @@ body{
     padding: 10px;
     text-decoration: none;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #4299d7;
+    color: white;
+    text-align: center;
+  }
 
 h1{
 
