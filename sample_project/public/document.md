@@ -144,7 +144,9 @@ function backgroundMusic(scene: Scene): Sound {
   ```
   I also added music. If there are no rendered frames, the music will not play, but when the scene is rendered the music will play and stop if the scene is closed.
 
-  ## Assets used 
+  ## Assets used
+  
+   
   [Music](https://pixabay.com/music/techno-trance-welcome-to-rave-174215/)
   [Monkey1](https://media.istockphoto.com/id/965307792/photo/chimpanzee-face.jpg?s=612x612&w=0&k=20&c=ubJK1XiTVeoM4u0t2c-L-CpFAEdiRa4dfXfmbpj4ubo=)
   [Monkey2](https://pngimg.com/image/18729)   
